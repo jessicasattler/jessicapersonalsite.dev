@@ -40,7 +40,7 @@
     </div>
   
     <div class="jumbotron">
-      <h1>Why hire Jessica?  Let's take a look:
+      <h1>Jessica's Professional Journey
       </h1>
       <!-- <h1>Resume</h1> -->
     </div>

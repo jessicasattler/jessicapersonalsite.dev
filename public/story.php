@@ -9,22 +9,16 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jessica Sattler's Welcome Page</title>
+    <title>A Bit of My Story</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="/css/contact.css" rel="stylesheet">
+    <link href="/css/story.css" rel="stylesheet">
     <!-- My own custom style sheet: -->
-    <link href="/css/contactcustom.css" rel="stylesheet">
+    <link href="/css/customstory.css" rel="stylesheet">
 
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
   </head>
 
   <body>
@@ -41,31 +35,21 @@
               <h3 class="masthead-brand"><img src="/img/logo.png"></h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li><a href="/index.html">Welcome</a></li>
+                  <li class="active"><a href="#">Welcome</a></li>
                   <li class="resumelink"><a href="/resume2.php">Resume</a></li>
                   <li><a href="/portfolio.php">Portfolio</a></li>
-                  <li class="active"><a href="#">Custom</a></li>
+                  <li><a href="/contact.php">Contact</a></li>
                 </ul>
               </nav>
             </div>
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">Interested in working together?</h1>
-            <p class="lead">Send me a friendly  message:</p>
-            <form>
-                <div class="form-group">
-                  
-                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
-                </div>
-                <div class="form-group">
-                  <input type="email" class="form-control" id="exampleInputSubject" placeholder="Subject">
-                </div>
-                <div class="form-group">
-                  <textarea id="email_body" type="email" class="form-control" name="email_body" rows="7" cols="70">Content Here</textarea>
-                </div>
-                <button type="submit" class="btn btn-default">Submit</button>
-            </form>             
+            <h1 class="cover-heading">¡Bienvenido!</h1>
+            <p class="lead">If you want to learn more about the latest web developer in the making, you've come to the right place.</p>
+            <p class="lead">
+              <a href="#" class="btn btn-lg btn-default">Learn more about Jessica's story</a>
+            </p>
           </div>
 
           <div class="mastfoot">
@@ -86,7 +70,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="/js/bootstrap.min.js"></script>
-     <script src="/js/contact.js"></script>
+    <script src="/js/story.js"></script>
    
   </body>
 </html>
