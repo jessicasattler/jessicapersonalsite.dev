@@ -15,9 +15,9 @@
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="/css/welcome.css" rel="stylesheet">
+    <link href="/css/contact.css" rel="stylesheet">
     <!-- My own custom style sheet: -->
-    <link href="/css/customwelcomepage.css" rel="stylesheet">
+    <link href="/css/contactcustom.css" rel="stylesheet">
 
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -41,10 +41,10 @@
               <h3 class="masthead-brand"><img src="/img/logo.png"></h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li class="active"><a href="#">Welcome</a></li>
+                  <li><a href="/index.html">Welcome</a></li>
                   <li class="resumelink"><a href="/resume2.php">Resume</a></li>
                   <li><a href="/portfolio.php">Portfolio</a></li>
-                  <li><a href="/contact.php">Contact</a></li>
+                  <li class="active"><a href="#">Custom</a></li>
                 </ul>
               </nav>
             </div>
@@ -76,6 +76,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="/js/bootstrap.min.js"></script>
+     <script src="/js/contact.js"></script>
    
   </body>
 </html>

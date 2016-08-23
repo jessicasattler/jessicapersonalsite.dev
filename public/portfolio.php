@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jessica Sattler's Portfolioe Page</title>
+    <title>Portfolio Page</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -67,7 +67,7 @@
 
       <div class="item active">
         
-        <link><a href="/calculator.html">Simple Simon<img src="/img/calculatorPic2.png" alt="alt1"></a></link>
+        <link><a href="/calculator.html">Calculator<img src="/img/calculatorPic2.png" alt="alt1"></a></link>
       </div> <!-- "item 1" div -->
 
       <div class="item">

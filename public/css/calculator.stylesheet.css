@@ -1,3 +1,6 @@
+.back{
+	color:white;
+}
 .container{
 
 	position:relative;
@@ -16,7 +19,7 @@
 	font-weight:bold;
 	font-size:30px;
 	color:blue;
-	font-family: 'Lobster', cursive;	
+	/*font-family: 'Lobster', cursive;*/	
 
 }
 .input:hover{
@@ -109,6 +112,7 @@
 body{
 	
 	  background: linear-gradient(black, white);
+	  font-family: 'Lobster', cursive;
 }
 
 
