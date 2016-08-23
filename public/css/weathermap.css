@@ -1,0 +1,62 @@
+#container{
+	position:relative;
+	height: 900px;
+	
+
+
+}
+h2, h3{
+	color:white;
+	font-size:25px;
+
+}
+
+h4{
+	color:black;
+	font-size:13px;
+	font-weight: bold
+}
+body{
+	background-color: #ABDCFD;
+	font-family: 'Courgette', cursive;
+	font-family: 'Cormorant Infant', serif;
+	font-family: 'Quintessential', cursive;
+	background-image: url("/img/space.jpg");
+	background-repeat: no-repeat;
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	padding:10px;
+	border:10px solid gray;
+	margin:0;
+	background: #F2F2F2;
+	opacity: 0.77;
+	text-align: center;
+	margin: 100 auto 0 auto;
+	
+}
+
+
+
+
+/*google maps styles*/
+#map-canvas {
+       
+         width:700px;
+         height:500px;
+         position:relative;
+         border:10px solid gray;
+         bottom:640px;
+         left:400px;
+
+}
+
+
+ var mapOptions = {
+
+ }
+.inputs{
+	clear:left;
+}

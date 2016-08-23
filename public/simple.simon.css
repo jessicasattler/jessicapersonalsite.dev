@@ -1,0 +1,85 @@
+h1{
+	position: absolute;
+}
+body{
+	font-family: 'Russo One', sans-serif;
+	font-weight: bold;
+	background-repeat: repeat;
+	background-image: url("/img/purple.png");
+}
+.col-md-5 {
+	background-image: url("/img/pic2.jpeg");
+	border: 2px solid black;
+	position: relative;
+	top: 50px;
+	margin-bottom: 50px;
+	margin: auto;
+	width: 1024px;
+	height: 768px;
+}
+
+#circle{
+	background-image: url("/img/purple.png");
+	position: absolute;
+	height: 700px;
+	width: 700px;
+	margin: auto;
+	border:10px solid pink;
+	border-radius: 50%;
+	top: 40px;
+	left:140px;
+}
+.button{
+	height: 40%;
+	width: 40%;
+	opacity: 1.00;
+	border: 5px solid pink;
+	border-radius: 17%;
+	outline:none;
+}
+#greenButton{
+	position: relative;
+	margin-left: 9%;
+	top: 9%;
+	background-color: green;
+	border-radius: 100% 0 0 0; 
+}
+#blueButton{
+	position: relative;
+	margin-left: 2%;
+	top: 9%;
+	background-color: blue;
+	border-radius: 0 100% 0 0;
+}
+#yellowButton{
+	position: relative;
+	margin-left: 9%;
+	top: 11%;
+	background-color: yellow;
+	border-radius:0 0 0 100%;
+
+}
+#redButton{
+	position: relative;
+	margin-left: 2%;
+	top: 11%;
+	background-color: red;
+	border-radius:0 0 100% 0;
+
+}
+#start{
+	position:relative;
+	background-image: url("/img/purple.png");
+	color: white;
+	bottom: 10%;
+	margin-left: 35%;
+	top: -314px;
+	height:215px;
+	width:215px;
+	font-family: 'Russo One', sans-serif;
+	border-radius:50%;
+	font-size:54px;
+	border:10px solid pink;
+	outline:none;
+
+}

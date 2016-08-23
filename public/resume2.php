@@ -28,11 +28,11 @@
   <body>
 
   <div class="container">
-    <a href="bottom of the page">Please take me to the bottom of the page</a>
+    <!-- <a href="bottom of the page">Please take me to the bottom of the page</a> -->
     <div>
       <nav>
         <ul class="navbar masthead-nav">
-          <li class="resumelink"><a href="/welcome.php">Welcome</a></li>
+          <li class="resumelink"><a href="/index.html">Welcome</a></li>
           <li class="active"><a href="#">Resume</a></li>
           <li><a href="/portfolio.php">Portfolio</a></li>
         </ul>

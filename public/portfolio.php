@@ -37,7 +37,7 @@
               <h3 class="masthead-brand">JS</h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li><a href="/welcome.php">Welcome</a></li>
+                  <li><a href="/index.html">Welcome</a></li>
                   <li class="resumelink"><a href="/resume2.php">Resume</a></li>
                   <li class="active"><a href="#">Portfolio</a></li>
                 </ul>
@@ -48,69 +48,13 @@
       
           <div class="jumbotron">
             <h1>Portfolio</h1>
-            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo
-            </p>
-            <p>Some other text.
+            <p> Take a look at my most recent projects:
             </p>
           </div>
     </div>
 
    
-  <!--<div id="myCarousel" class="carousel slide" data-ride="carousel"> -->
-  <!-- Indicators -->
-  <!--<ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-    <li data-target="#myCarousel" data-slide-to="3"></li>
-  </ol> -->
-
-  <!-- Wrapper for slides -->
-  <!-- <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="http://placekitten.com/200/400" alt="Chania">
-      <div class="carousel-caption">
-        <h3>Chania</h3>
-        <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
-      </div>
-    </div>
-
-    <div class="item">
-      <img src="http://placekitten.com/200/300" alt="Chania">
-      <div class="carousel-caption">
-        <h3>Chania</h3>
-        <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
-      </div>
-    </div>
-
-    <div class="item">
-      <img src="http://placekitten.com/200/300" alt="Flower">
-      <div class="carousel-caption">
-        <h3>Flowers</h3>
-        <p>Beatiful flowers in Kolymbari, Crete.</p>
-      </div>
-    </div>
-
-    <div class="item">
-      <img src="http://placekitten.com/200/300" alt="Flower">
-      <div class="carousel-caption">
-        <h3>Flowers</h3>
-        <p>Beatiful flowers in Kolymbari, Crete.</p>
-      </div>
-    </div>
-  </div> -->
-
-  <!-- Left and right controls -->
- <!--<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-  </div>-->
-
+  
   <div class="container">
   <div id="the-slider" class="carousel slide" data-ride="carousel">
 
@@ -122,15 +66,18 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="http://placekitten.com/300/200" alt="alt1">
+        
+        <link><a href="/calculator.html">Simple Simon<img src="/img/calculatorPic2.png" alt="alt1"></a></link>
       </div> <!-- "item 1" div -->
 
       <div class="item">
-        <img src="http://placekitten.com/300/201" alt="alt2">
+        <!-- <img src="http://placekitten.com/300/201" alt="alt2"> -->
+       
+         <link><a href="/weathermap.html">Weather Map <img src="/img/weatherPic2.png" alt="alt2"></a></link>
       </div> <!-- "item 2" div -->
 
       <div class="item">
-        <img src="http://placekitten.com/300/202" alt="alt3">
+      <link><a href="/simple.simon.html">Simple Simon<img src="/img/simpleSimonPic2.png" alt="alt1"></a></link>
       </div> <!-- "item 3" div -->
 
 

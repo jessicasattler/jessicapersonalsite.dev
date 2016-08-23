@@ -1,0 +1,14 @@
+body{
+	background-image:url("/img/dark-wallpaper-2.jpg");
+	/*from thecodeplayer.com*/
+	-webkit-filter: hue-rotate(180deg);	display: block;
+	-webkit-transition: all 0.5s;
+}
+/*Hover effects*/
+body:hover {
+	-webkit-filter: none; /*Returns to default state*/
+}
+
+.cover-heading{
+	color:white;
+}
