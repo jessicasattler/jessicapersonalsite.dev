@@ -43,14 +43,17 @@
               </nav>
             </div>
           </div>
-
+          
           <div class="inner cover">
-            <h1 class="cover-heading">¡Bienvenido!</h1>
-            <p class="lead">If you want to learn more about the latest web developer in the making, you've come to the right place.</p>
-            <p class="lead">
-              <a href="#" class="btn btn-lg btn-default">Learn more about Jessica's story</a>
-            </p>
-          </div>
+            <h1 class="cover-heading">A Little Bit About Me</h1>
+            <p class="lead">Why I chose software development?</p>
+            <p></p>
+            <p class="lead">When I'm not coding, I'm..</p>
+            <img src="/img/zipliningDream.jpg">
+            <p>Well, I'm not ziplining all the time. I've only done it once but I really enjoyed myself. In fact, I usually spend time with my husband and my cute cat. I enjoy trying out the latest trendy coffee shops, going on long walks around town, traveling, or simply staying at home and catching up on "Supernatural" or whatever show I'm into. I just finished watching "Stranger Things", I highly recommend that if you haven't seen it. </p>
+            </div>
+            <img src="/img/whitAndJessDream.jpg">
+            <img src="/img/FabiDream.jpg">
 
           <div class="mastfoot">
             <div class="inner">
