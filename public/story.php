@@ -43,17 +43,27 @@
               </nav>
             </div>
           </div>
-          
-          <div class="inner cover">
-            <h1 class="cover-heading">A Little Bit About Me</h1>
-            <p class="lead">Why I chose software development?</p>
-            <p></p>
-            <p class="lead">When I'm not coding, I'm..</p>
-            <img src="/img/zipliningDream.jpg">
-            <p>Well, I'm not ziplining all the time. I've only done it once but I really enjoyed myself. In fact, I usually spend time with my husband and my cute cat. I enjoy trying out the latest trendy coffee shops, going on long walks around town, traveling, or simply staying at home and catching up on "Supernatural" or whatever show I'm into. I just finished watching "Stranger Things", I highly recommend that if you haven't seen it. </p>
-            </div>
-            <img src="/img/whitAndJessDream.jpg">
-            <img src="/img/FabiDream.jpg">
+    
+                <h2>Life Outside of Software Development..</h2>
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row"></th>
+                      <td id="addWords" class="zipliningClass"><img class="picture" id="ziplining" src="/img/zipliningDream.jpg"></td>
+                      <td id="addWords2" class="whitAndJessClass"><img class="picture" id="whitAndJess" src="/img/whitAndJessDream2.jpg"></td>
+                    </tr>
+                    <tr>
+                      <th scope="row"></th>
+                      <td id="addWords3" class="fabiClass"><img class="picture" id="fabi" src="/img/FabiDream.jpg"></td>
+                      <td id="addWords4" class="chinaClass"><img class="picture" id="china" src="/img/chinaDream2.jpg"></td>
+                    </tr>
+                  </tbody>
+                </table>
 
           <div class="mastfoot">
             <div class="inner">

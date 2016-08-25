@@ -7,9 +7,19 @@ body{
 /*Hover effects*/
 body:hover {
 	-webkit-filter: none; /*Returns to default state*/
+	text-align: center;
 }
 
 .cover-heading{
 	color:white;
 	position: relative;
 }	
+.picture{
+	height:200px;
+}
+.chinaClass{
+	display: block;
+}
+.whitAndJessClass{
+	background-color;
+}
