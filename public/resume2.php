@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link href='https://fonts.googleapis.com/css?family=Cabin:400,500' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,15 +29,19 @@
 
   <div class="container">
     <!-- <a href="bottom of the page">Please take me to the bottom of the page</a> -->
-    <div>
-      <nav>
-        <ul class="navbar masthead-nav">
-          <li class="resumelink"><a href="/index.html">Welcome</a></li>
-          <li class="active"><a href="#">Resume</a></li>
-          <li><a href="/portfolio.php">Portfolio</a></li>
-        </ul>
-     </nav>
-    </div>
+
+     <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand"><img src="/img/logo.png"></h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li class="resumelink"><a href="/index.html">Welcome</a></li>
+                  <li class="active"><a href="#">Resume</a></li>
+                  <li><a href="/portfolio.php">Portfolio</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
   
     <div class="jumbotron">
       <h1>Jessica's Professional Journey

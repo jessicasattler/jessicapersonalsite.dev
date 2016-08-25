@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -53,7 +54,14 @@
           <div class="inner cover">
             <h1 class="cover-heading">Interested in working together?</h1>
             <p class="lead">Send me a friendly  message:</p>
-            <form>
+            <p>Email: jessicasattler28@gmail.com</p>
+            <p>or connect with me through LinkedIn</p>
+
+            <!-- <button img src="/img/linkedin"></button> -->
+            <!-- https://www.linkedin.com/in/jessica-sattler-b604b25b -->
+
+
+      <!--       <form>
                 <div class="form-group">
                   
                   <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
@@ -65,7 +73,7 @@
                   <textarea id="email_body" type="email" class="form-control" name="email_body" rows="7" cols="70">Content Here</textarea>
                 </div>
                 <button type="submit" class="btn btn-default">Submit</button>
-            </form>             
+            </form>  -->            
           </div>
 
           <div class="mastfoot">

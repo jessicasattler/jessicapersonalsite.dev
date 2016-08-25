@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@
     
           <div class="masthead clearfix"> 
             <div class="inner">
-              <h3 class="masthead-brand">JS</h3>
+              <h3 class="masthead-brand"><img src="/img/logo.png"></h3>
               <nav>
                 <ul class="nav masthead-nav">
                   <li><a href="/index.html">Welcome</a></li>

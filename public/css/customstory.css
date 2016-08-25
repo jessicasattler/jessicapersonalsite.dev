@@ -3,6 +3,7 @@ body{
 	/*from thecodeplayer.com*/
 	-webkit-filter: hue-rotate(180deg);	display: block;
 	-webkit-transition: all 0.5s;
+	font-family: 'Lato', sans-serif;
 }
 /*Hover effects*/
 body:hover {
@@ -15,11 +16,35 @@ body:hover {
 	position: relative;
 }	
 .picture{
-	height:200px;
+	height;
 }
 .chinaClass{
-	display: block;
+	background-color;
 }
 .whitAndJessClass{
 	background-color;
+}
+.zipliningClass{
+	background-color;
+}
+.fabiClass{
+	background-color;
+}
+#careerStory{
+	position:relative;
+	top:70px;
+	color:black;
+}
+p{
+	position:relative;
+	top:100px;
+	background-color: rgba(0,0,0,.7)
+
+}
+#lifeOutside{
+	position:relative;
+	top:30px;
+}
+table{
+	top:500px;
 }

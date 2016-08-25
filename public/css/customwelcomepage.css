@@ -3,10 +3,12 @@ body{
 	/*from thecodeplayer.com*/
 	-webkit-filter: hue-rotate(180deg);	display: block;
 	-webkit-transition: all 0.5s;
+	font-family: 'Lato', sans-serif;
 }
 /*Hover effects*/
 body:hover {
 	-webkit-filter: none; /*Returns to default state*/
+
 }
 
 .cover-heading{
