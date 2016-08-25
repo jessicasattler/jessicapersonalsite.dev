@@ -40,6 +40,8 @@
                   <li><a href="/index.html">Welcome</a></li>
                   <li class="resumelink"><a href="/resume2.php">Resume</a></li>
                   <li class="active"><a href="#">Portfolio</a></li>
+                  <li><a href="/story.php">My Story</a></li>
+                  <li><a href="/contact.php">Contact Me</a></li>
                 </ul>
               </nav>
             </div>
