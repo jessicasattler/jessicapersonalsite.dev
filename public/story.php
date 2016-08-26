@@ -46,37 +46,45 @@
             </div>
           </div>
 
-               <!-- <button id="careerStory">My Career Story</button> -->
-              <!--     <p>However, when it came time to choose a major in college, I couldn’t quite make the leap. I had taken a few math classes, but felt as though I did not fit the stereotype of what a “computer science engineer” was. I became afraid to fail and disappoint my family, so I choose fields of study I thought I could safely succeed in: Psychology and Business.</p>
-                  <p>When I graduated from the University of Texas at Austin, I decided to first focus on a role in a business setting and was hired as a call center consultant at a credit union. I excelled at this job, but felt like I was wasting my potential. So I switched gears and explored options in Psychology, ultimately enrolling in a masters degree program in clinical mental health. Again, while I excelled in my program I was never quite satisfied and craved more objective work. 
+               <h2 id="careerStory">My Career Story</h2>
+               <div id="careerText">
+                  
+                  <p>As an immigrant from Mexico, I grew up with the constant reminder that my parents sacrificed their financial stability in order for my sisters and I to have more educational and vocational opportunities. Because of this, I felt I had to pursue a career that contributed to both society and my family. From early on, I thought this career would be in engineering, where I could solve complex problems directly affecting people’s lives.
                   </p>
-                  <p>While I was enrolled in my masters program, I worked for a nonprofit organization called Girlstart, which empowers young women to pursue careers in STEM. I was in charge of delivering after-school science lessons to inspire and foster their scientific curiosity. I felt very passionate about this program, because I wanted to prevent these young women from making the same mistake that I had: shying away from engineering because I believed I wasn’t smart enough. 
+                  <p>However, when it came time to choose a major in college, I couldn’t quite make the leap. I had taken a few math classes, but felt as though I did not fit the stereotype of what a “computer science engineer” was. I became afraid to fail and disappoint my family, so I choose fields of study I thought I could safely succeed in: Psychology and Business.  
                   </p>
-                  <p>A few months before I completed my first year of my masters program, my husband told me about Codeup and how they offered scholarships for women. I started to think it was not too late to redeem my past mistakes. I thought the only way for me to become a software developer was to return to college and major in computer science in college. However, I remember receiving a phone call from one of my sisters that day, who told me about one of her friends who graduated with a bachelors in business but learned to program in different languages and is now a successful software developer. 
-                  </p>
-                  <p>I know finishing Codeup’s Full Stack Development program is only the beginning of my career. After Codeup, I would like to become an expert in other languages, such as Python and Java, as well as refine my knowledge of PHP, JavaScript, and in general, the other other major topics we cover in Codeup. My “end goal” would be to find a job in a company that encourages mentorship, constant growth and development, where I can gain a wide breadth of knowledge about many different aspects of the software development industry. Thanks to Codeup, for the first time in a long time, I feel like I’m on right path. For the first time, I feel like I’m reaching past my potential.
-                  </p> -->
-    
-                <h2 id="lifeOutside">Life Outside of Software Development</h2>
-                <table class="table">
-                  <thead>
-                    <tr>
-                      <th></th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <th scope="row"></th>
-                      <td id="addWords" class="zipliningClass"><img class="picture" id="ziplining" src="/img/zipliningDream.jpg"></td>
-                      <td id="addWords2" class="whitAndJessClass"><img class="picture" id="whitAndJess" src="/img/whitAndJessDream2.jpg"></td>
-                    </tr>
-                    <tr>
-                      <th scope="row"></th>
-                      <td id="addWords3" class="fabiClass"><img class="picture3" id="fabi" src="/img/FabiDream.jpg"></td>
-                      <td id="addWords4" class="chinaClass"><img class="picture" id="china" src="/img/chinaDream2.jpg"></td>
-                    </tr>
-                  </tbody>
-                </table>
+                  </div>
+
+                   <button type="button" id="leftButton" class="btn btn-default btn-lg">
+                     <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span> 
+                  </button>
+                  <button id="pageNum">1</button>
+                   <button type="button" class="btn btn-default btn-lg" id="rightButton">
+                     <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> 
+                  </button>
+                
+                <div class="tableParent">
+                  <h2 id="lifeOutside">Life Outside of Software Development</h2>
+                  <table class="table">
+                    <thead>
+                      <tr>
+                        <th></th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <th scope="row"></th>
+                        <td id="addWords" class="zipliningClass"><img class="picture" id="ziplining" src="/img/zipliningDream.jpg"></td>
+                        <td id="addWords2" class="whitAndJessClass"><img class="picture" id="whitAndJess" src="/img/whitAndJessDream2.jpg"></td>
+                      </tr>
+                      <tr>
+                        <th scope="row"></th>
+                        <td id="addWords3" class="fabiClass"><img class="picture3" id="fabi" src="/img/FabiDream.jpg"></td>
+                        <td id="addWords4" class="chinaClass"><img class="picture" id="china" src="/img/chinaDream2.jpg"></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
 
           <div class="mastfoot">
             <div class="inner">
