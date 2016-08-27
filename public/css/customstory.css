@@ -37,7 +37,7 @@ body:hover {
 }
 p{
 	position:relative;
-	top:165px;
+	
 	background-color: rgba(0,0,0,.7)
 
 }
@@ -53,4 +53,12 @@ button{
 	position:relative;
 	top:200px;
 	color:black;
+	background-color:gray;
 }
+#careerText{
+	position: relative;
+	background-color: rgba(0,0,0,.7);
+	top:165px;
+}
+	
+

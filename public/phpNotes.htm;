@@ -1,0 +1,11 @@
+Full Stack = Front End + Back End
+		= client languages + server side
+Persistence = saving things
+
+Back end == Server side
+-talk to the server
+-read/write files and database
+-accept  requests from users
+	GET = download request
+	POST = upload request
+-
