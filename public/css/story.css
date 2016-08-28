@@ -138,6 +138,7 @@ body {
   /* Start the vertical centering */
   .site-wrapper-inner {
     vertical-align: middle;
+      background-image:url("/img/dark-wallpaper-2.jpg");
   }
   /* Handle the widths */
   .masthead,

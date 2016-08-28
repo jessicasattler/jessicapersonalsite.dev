@@ -36,11 +36,16 @@
               <h3 class="masthead-brand"><img src="/img/logo.png"></h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li><a href="/index.html">Welcome</a></li>
-                  <li><a href="/resume2.php">Resume</a></li>
-                  <li><a href="/portfolio.php">Portfolio</a></li>
-                  <li class="active"><a href="/story.php">My Story</a></li>
-                  <li><a href="/contact.php">Contact Me</a></li>
+                  <li><a href="/index.html"><span class="glyphicon glyphicon-home glyphicon-large" aria-hidden="true"></span></a></li>
+
+                  <li><a href="/resume2.php"><span class="glyphicon glyphicon-list-alt glyphicon-large" aria-hidden="true"></span></a></li>
+
+                  <li><a href="/portfolio.php"><span class="glyphicon glyphicon-folder-close glyphicon-large" aria-hidden="true"></span></a></li>
+
+                  <li class="active"><a href="/story.php"><span class="glyphicon glyphicon-book glyphicon-large" aria-hidden="true"></span></a></li>
+
+                  <li><a href="/contact.php"><span class="glyphicon glyphicon-envelope glyphicon-large" aria-hidden="true"></span></a></li>
+
                 </ul>
               </nav>
             </div>

@@ -10,4 +10,9 @@ body {
   text-align: center;
   /*text-shadow: 0 15px 3px rgba(0,0,0,.90);*/
 }
-
+.col-md-offset-1, .col-md-5, .col-md-6{
+	display:none;
+}
+.glyphicon-large{
+	font-size: 30px;
+}
