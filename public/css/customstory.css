@@ -1,10 +1,12 @@
 body{
 	background-image:url("/img/dark-wallpaper-2.jpg");
+/*	 background: url("/img/dark-wallpaper-2.jpg") repeat center center fixed; */
 	/*from thecodeplayer.com*/
 	-webkit-filter: hue-rotate(180deg);	display: block;
 	-webkit-transition: all 0.5s;
 	font-family: 'Lato', sans-serif;
 }
+
 /*Hover effects*/
 body:hover {
 	-webkit-filter: none; /*Returns to default state*/
@@ -48,6 +50,8 @@ p{
 .tableParent{
 	position: relative;
 	top: 300px;
+	background-image:url("/img/dark-wallpaper-2.jpg");
+
 }
 button{
 	position:relative;
