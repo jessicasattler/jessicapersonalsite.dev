@@ -47,16 +47,22 @@ p{
 	position:relative;
 	
 	background-color: rgba(0,0,0,.7)
-	
+
 }
 #lifeOutside{
 	position:relative;
 	top:30px;
+
 }
 .tableParent{
 	position: relative;
 	top: 300px;
 	background-image:url("/img/dark-wallpaper-2.jpg");
+	border-radius:75px;
+	
+	
+
+
 
 }
 button{
