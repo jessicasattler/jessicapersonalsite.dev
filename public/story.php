@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>A Bit of My Story</title>
+    <title>My Story</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -58,7 +58,8 @@
                   </p>
                   <p>However, when it came time to choose a major in college, I couldn’t quite make the leap. I had taken a few math classes, but felt as though I did not fit the stereotype of what a “computer science engineer” was. I became afraid to fail and disappoint my family, so I choose fields of study I thought I could safely succeed in: Psychology and Business.  
                   </p>
-                  </div>
+                  
+               </div>
 
                    <button type="button" id="leftButton" class="btn btn-default btn-lg">
                      <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span> 
