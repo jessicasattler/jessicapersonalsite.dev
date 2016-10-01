@@ -27,7 +27,7 @@
 
                   	 "<p>A few months before I completed my first year of my masters program, my husband told me about Codeup and how they offered\
                   	 scholarships for women. I started to think it was not too late to redeem my past mistakes. I thought the only way for me to\
-                  	 become a software developer was to return to college and major in computer science in college. However, I remember receiving\
+                  	 become a software developer was to return to college and major in computer science. However, I remember receiving\
                   	 a phone call from one of my sisters that day, who told me about one of her friends who graduated with a bachelors in business\
                   	 but learned to program in different languages and is now a successful software developer. </p>\
                   	<p>I know finishing Codeup’s Full Stack Development program is only the beginning of my career. After Codeup, I would like to\
