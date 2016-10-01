@@ -51,7 +51,7 @@
             </div>
           </div>
 
-               <h2 id="careerStory">My Career Story</h2>
+               <h2  id="careerStory">My Career Story</h2>
                <div id="careerText">
                   
                   <p>As an immigrant from Mexico, I grew up with the constant reminder that my parents sacrificed their financial stability in order for my sisters and I to have more educational and vocational opportunities. Because of this, I felt I had to pursue a career that contributed to both society and my family. From early on, I thought this career would be in engineering, where I could solve complex problems directly affecting people’s lives.
