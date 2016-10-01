@@ -61,8 +61,8 @@
           <div class="inner cover">
             <h1 class="cover-heading">Interested in working together?</h1>
             <p class="lead">Send me a friendly  message:</p>
-            <p>Email: jessicasattler28@gmail.com</p>
-            <p>or connect with me through LinkedIn</p>
+            <h2>jessicasattler28@gmail.com</h2>
+            
 
             <!-- <button img src="/img/linkedin"></button> -->
             <!-- https://www.linkedin.com/in/jessica-sattler-b604b25b -->
