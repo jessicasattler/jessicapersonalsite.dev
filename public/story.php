@@ -71,25 +71,23 @@
                 
                 <div class="tableParent">
                   <h2 id="lifeOutside">Life Outside of Software Development</h2>
-                  <table class="table">
-                    <thead>
-                      <tr>
-                        <th></th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr>
-                        <th scope="row"></th>
-                        <td id="addWords" class="zipliningClass"><img class="picture" id="ziplining" src="/img/zipliningDream.jpg"></td>
-                        <td id="addWords2" class="whitAndJessClass"><img class="picture" id="whitAndJess" src="/img/whitAndJessDream2.jpg"></td>
-                      </tr>
-                      <tr>
-                        <th scope="row"></th>
-                        <td id="addWords3" class="fabiClass"><img class="picture3" id="fabi" src="/img/FabiDream.jpg"></td>
-                        <td id="addWords4" class="chinaClass"><img class="picture" id="china" src="/img/chinaDream2.jpg"></td>
-                      </tr>
-                    </tbody>
-                  </table>
+                    <div class = "row">
+                      <div class = "col-sm-6 col-xs-12 zipliningClass" id="addWords" >
+                       <img class="picture" id="ziplining" src="/img/zipliningDream.jpg">
+                      </div>
+                      <div class = "col-sm-6 col-xs-12 whitAndJessClass" id="addWords2">
+                        <img class="picture" id="whitAndJess" src="/img/whitAndJessDream2.jpg">
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-sm-6 col-xs-12 fabiClass" id="addWords3">
+                        <img class="picture3" id="fabi" src="/img/FabiDream.jpg">
+                      </div>
+                      <div class="col-sm-6 col-xs-12 chinaClass" id="addWords4" >
+                        <img class="picture" id="china" src="/img/chinaDream2.jpg">
+                      </div>
+                    </div>
+ 
                 </div>
 
         </div>
