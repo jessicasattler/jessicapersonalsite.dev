@@ -78,14 +78,20 @@
       </div> <!-- "item 1" div -->
 
       <div class="item">
-        <!-- <img src="http://placekitten.com/300/201" alt="alt2"> -->
-       
          <link><a href="/weathermap.html">Weather Map <img src="/img/weatherPic2.png" alt="alt2"></a></link>
       </div> <!-- "item 2" div -->
 
       <div class="item">
       <link><a href="/simple.simon.html">Simple Simon<img src="/img/simpleSimonPic2.png" alt="alt1"></a></link>
       </div> <!-- "item 3" div -->
+
+      <div class="item">
+      <link><a href="/adlister.dev/public/index.php ">Adlister<img src="/img/adlister.png" alt="alt1"></a></link>
+      </div> <!-- "item 4" div -->
+
+      <div class="item">
+      <link><a href="https://reddit.clearglass.online/auth/login">Reddit<img src="/img/reddit.png" alt="alt1"></a></link>
+      </div> <!-- "item 5" div -->
 
 
     </div> <!-- carousel-inner div -->
