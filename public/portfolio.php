@@ -86,7 +86,7 @@
       </div> <!-- "item 3" div -->
 
       <div class="item">
-      <link><a href="/adlister.dev/public/index.php ">Adlister<img src="/img/adlister.png" alt="alt1"></a></link>
+      <link><a href="#">Adlister<img src="/img/adlister.png" alt="alt1"></a></link>
       </div> <!-- "item 4" div -->
 
       <div class="item">
