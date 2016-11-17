@@ -73,7 +73,6 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        
         <link><a href="/calculator.html">Calculator<img src="/img/calculatorPic2.png" alt="alt1"></a></link>
       </div> <!-- "item 1" div -->
 
@@ -82,17 +81,20 @@
       </div> <!-- "item 2" div -->
 
       <div class="item">
-      <link><a href="/simple.simon.html">Simple Simon<img src="/img/simpleSimonPic2.png" alt="alt1"></a></link>
+        <link><a href="/simple.simon.html">Simple Simon<img src="/img/simpleSimonPic2.png" alt="alt1"></a></link>
       </div> <!-- "item 3" div -->
 
       <div class="item">
-      <link><a href="#">Adlister<img src="/img/adlister.png" alt="alt1"></a></link>
+        <link><a href="#">Adlister<img src="/img/adlister.png" alt="alt1"></a></link>
       </div> <!-- "item 4" div -->
 
       <div class="item">
-      <link><a href="https://reddit.clearglass.online/auth/login">Reddit<img src="/img/reddit.png" alt="alt1"></a></link>
+        <link><a href="https://reddit.clearglass.online/auth/login">Reddit<img src="/img/reddit.png" alt="alt1"></a></link>
       </div> <!-- "item 5" div -->
 
+      <div class="item">
+      <link><a href="https://foodnow.site/">FoodNow<img src="/img/foodnow.png" alt="alt1"></a></link>
+      </div> <!-- "item 5" div -->
 
     </div> <!-- carousel-inner div -->
 
