@@ -72,7 +72,7 @@
           <div class="inner cover">
             <h1 class="cover-heading">Interested in working together?</h1>
             <p class="lead">Send me a friendly  message:</p>
-            <h2>jessicasattler28@gmail.com</h2>
+            <a href="https://mail.google.com/mail/"><h2>jessicasattler28@gmail.com</h2></a>
             
 
             <!-- <button img src="/img/linkedin"></button> -->
